@@ -1,1 +1,1 @@
-<h1>Legebds of Aetherfall</h1>
+<h1>Legends of Aetherfall</h1>
